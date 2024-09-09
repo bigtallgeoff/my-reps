@@ -1,6 +1,6 @@
 port:  5000
 markdown: kramdown
-name: "My Reps"
+name: "Get Your Voice Heard"
 url: https://getyourvoiceheard.org
 encoding: utf-8
 timezone: America/Chicago
